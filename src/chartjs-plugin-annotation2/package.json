@@ -1,0 +1,20 @@
+{
+  "name": "chartjs-plugin-annotation2",
+  "homepage": "https://github.com/ppegu/chartjs-plugin-annotation2.git",
+  "description": "Annotations for Chart.js",
+  "version": "1.0.0",
+  "author": "Pran Pegu pranpegu997@gmail.com",
+  "license": "ISC",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppegu/chartjs-plugin-annotation2.git"
+  },
+  "scripts": {},
+  "peerDependencies": {
+    "chart.js": "^3.4.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
